@@ -1,8 +1,9 @@
-xadmin
+xadmin # django<2
 xlrd
 django == 1.11.18
 django-bootstrap3
 django-ckeditor
 pillow
 
+# if django>=2  use pip install https://codeload.github.com/sshwsfc/xadmin/zip/django2
 # xadmin 需要将整个 git 下载后 使用 pip install 安装
